@@ -9,6 +9,7 @@
   "author": "Nick Balatsky",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.16.1",
     "yargs": "^7.1.0"
   }
 }
